@@ -4,12 +4,12 @@
       <h3 class="page-title">Current Summary</h3>
       <p><em>Click on column names to sort data</em></p>
 
-      <table class="table">
+      <table class="table" id="summaryTable">
         <thead>
           <tr class="table-header">
             <th><a class="label" href="#">Name</a></th>
             <th>Domain</th>
-            <th>Date of Breach</th>
+            <th>Date</th>
             <th>Accounts Comprimised</th>
           </tr>
         </thead>
@@ -25,6 +25,8 @@
       </table>
     </div>
   </div>
+
+
 </template>
 
 <script>
