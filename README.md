@@ -1,4 +1,6 @@
-# data-breach-report
+# Data Breach Reports
+
+A web client to report on data breaches, using the Have I [Been Pwned REST API](https://haveibeenpwned.com/API/v3). Built using Nuxt.js. 
 
 ## Build Setup
 
