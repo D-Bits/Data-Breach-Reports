@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-      <p class="footer-text"><strong>Eat Shit</strong></p>
+      <p class="footer-text"><strong>&copy; 2021 Dana </strong></p>
   </footer>
 </template>
 
