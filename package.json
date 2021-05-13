@@ -16,7 +16,7 @@
     "core-js": "^3.6.5",
     "datatables.net": "^1.10.23",
     "datatables.net-dt": "^1.10.23",
-    "nuxt": "^2.14.6",
+    "nuxt": "^2.15.6",
     "vuetify": "^2.2.11"
   },
   "devDependencies": {
